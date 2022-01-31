@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "nuxi dev",
+    "build": "nuxi build",
+    "start": "node .output/server/index.mjs",
+    "move:builder": "mkdir functions && mv .output/server functions/server",
+    "setup": "nuxi prepare"
+  },
+  "devDependencies": {
+    "nuxt3": "latest"
+  }
+}
