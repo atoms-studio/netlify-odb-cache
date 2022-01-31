@@ -1,6 +1,6 @@
 <template>
   <div>
-    <NuxtWelcome />
+    <h1>Netlify ODB functions</h1>
   </div>
 </template>
 <style>
