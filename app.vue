@@ -1,6 +1,8 @@
 <template>
   <div>
-    <h1>Netlify ODB functions test</h1>
+    <NuxtLayout>
+      <NuxtPage />
+    </NuxtLayout>
   </div>
 </template>
 <style>

@@ -1,0 +1,1 @@
+<template>my Index</template>

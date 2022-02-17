@@ -8,6 +8,8 @@
     "setup": "nuxi prepare"
   },
   "devDependencies": {
-    "nuxt3": "latest"
+    "nuxt3": "latest",
+    "sass": "^1.49.7",
+    "sass-loader": "^10"
   }
 }
